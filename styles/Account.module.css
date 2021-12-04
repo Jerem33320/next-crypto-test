@@ -1,0 +1,47 @@
+.container {
+    min-height: calc(100vh - 100px);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #61b8f1;
+}
+  
+.title {
+    margin-bottom: 8px;
+    line-height: 1.15;
+    font-size: 3rem;
+    color: whitesmoke;
+}
+.subTitle {
+    margin-bottom: 50px;
+    line-height: 1.15;
+    font-size: 1.6rem;
+    color: whitesmoke;
+}
+
+.main {
+    align-items: center;
+    border: 1px solid whitesmoke;
+    width: 80%;
+    height: 400px;
+    font-size: 1rem;
+    color: whitesmoke;
+}
+
+.button {
+    color: #61b8f1;
+    font-family: inherit;
+    font-size: .9em;
+    font-weight: 700;
+    background-color: whitesmoke;
+    padding: .8em 1.4em;
+    border-radius: .2em;
+    border: 0;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, .4);
+    cursor: pointer;
+}
+
+.imgcoin {
+    width: 200px;
+}

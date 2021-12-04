@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "JejeCoins",
+        "description": "La crypto au servcie des libertés financières inventé par le célèbre Ymerej Taryep.",
+        "image": "/images/jejecoins.png",
+        "price": "55000"
+    },
+    {
+        "id": 2,
+        "name": "CubeYourLifeCoins",
+        "description": "La crypto avec un service de transaction plus performant plus innovant que n'importe quelle blockchain.",
+        "image": "/images/cubeyourlife.png",
+        "price": "200"
+    },
+    {
+        "id": 3,
+        "name": "FreeTheWorldCoins",
+        "description": "La crypto qui libérera la race humaine des maux et des mots: c'est le futur.",
+        "image": "/images/freetheworld.png",
+        "price": "2.8"
+    }
+]
